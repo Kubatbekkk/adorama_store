@@ -1,9 +1,12 @@
 import React from 'react';
 
+import { Navbar, Products } from './components';
+
 const App = () => {
     return (
         <div>
-            E-commerce
+            <Navbar />
+            <Products />
         </div>
     );
 };
