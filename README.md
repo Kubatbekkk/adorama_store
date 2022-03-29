@@ -1,3 +1,5 @@
+Working demo version on Netlify https://adoramapic.netlify.app/
+
 # Insert your own API keys from Stripe and Commerce.js to .env file before checking
 
 # Getting Started with Create React App
